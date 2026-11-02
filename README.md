@@ -5,6 +5,7 @@
 **AI & Computer Science student · Flutter & Python developer**
 Building apps, games, and small AI projects from Egypt 🇪🇬
 
+<a href="https://www.linkedin.com/in/aly-ahmed-040722424/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.facebook.com/ali.ahmed.120331"><img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=AliAhmed650&style=for-the-badge&color=blueviolet" />
 
@@ -44,7 +45,7 @@ Building apps, games, and small AI projects from Egypt 🇪🇬
 
 ## 📫 Let's connect
 
-Open to collaborating on Flutter apps, student projects, and AI ideas. The fastest way to reach me is [Facebook](https://www.facebook.com/ali.ahmed.120331).
+Open to collaborating on Flutter apps, student projects, and AI ideas. You can find me on [LinkedIn](https://www.linkedin.com/in/aly-ahmed-040722424/) or [Facebook](https://www.facebook.com/ali.ahmed.120331).
 
 <div align="center">
 
